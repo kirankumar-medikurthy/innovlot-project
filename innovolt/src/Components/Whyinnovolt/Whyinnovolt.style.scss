@@ -1,0 +1,35 @@
+.whyinnovolt-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .whyinnovolt-heading {
+        font-family: "Avenir Next";
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .whyinnovolt-text {
+        font-family: "Avenir Next";
+        font-size: 20px;
+        font-weight: 700;
+        flex-wrap: wrap;
+        margin: 15px 0px;
+        text-align: center;
+    }
+
+    .whyinnovolt-content {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: linear-gradient(90deg, rgba(62, 146, 204, 0.8) 0%, rgba(249, 197, 180, 0.8) 100%);
+        div {
+            img {
+                margin:auto;
+            }
+        }
+    }
+}
