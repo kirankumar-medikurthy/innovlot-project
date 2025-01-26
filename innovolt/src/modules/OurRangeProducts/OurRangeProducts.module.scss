@@ -1,0 +1,64 @@
+$--swiper-navigation-size: 44px;
+.swipercontainer {
+    .rangeproductheading {
+        font-family: 'Avenir Next';
+        font-size: 23px;
+        text-align: center;
+        margin: 10px 0px;
+        font-weight: 700;
+    }
+    .swiper-pagination {
+        position: relative;
+    }
+
+    .swiper-pagination-bullets.swiper-pagination-horizontal {
+        bottom: 0;
+    }
+
+    .swiperbuttonprev, .swiperbuttonnext {
+        width: calc(var(--swiper-navigation-size) / 44* 0);
+    }
+
+    .swiperbuttonprev, .swiperbuttonnext {
+        &::after {
+            font-size: 20px;
+        }
+    }
+
+    .swiperpackage {
+        .swipersliderproduct {
+            .productcontainer {
+                display: flex;
+                flex-direction: column;
+                border: 1px solid black;
+                width: 90%;
+                justify-content: center;
+                align-items: center;
+                margin: 0px 20px;
+                overflow: hidden;
+                .productimagecontainer {
+                    border-bottom: 1px solid black;
+                    .productimage {
+                        object-fit: contain;
+                    }
+                }
+            }
+        }
+    }
+
+    .viewmorebuttoncontainer {
+        display: flex;
+        justify-content: center;
+        margin: 10px 0px;
+        .viewmorebutton {
+            width: 70%;
+            height: 40px;
+            border: 1px solid black;
+            border-radius: 10px;
+            font-weight: 700;
+            font-size: 20px;
+            color: white;
+            background-color: #F63663;
+        }
+    }
+}

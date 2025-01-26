@@ -1,0 +1,29 @@
+.accordionitem {
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    border-bottom: 2px solid black;
+}
+
+.accordiontitle {
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+
+    span {
+        font-size: 30px;
+    }
+}
+
+.accordiontitle h2 {
+    margin: 0;
+}
+
+.accordioncontent {
+    padding: 15px;
+    background: #fff;
+    // border-top: 1px solid #ccc;
+}

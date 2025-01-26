@@ -1,0 +1,40 @@
+.testdrivecontainer {
+    .testdriveheading {
+        font-family: "Avenir Next";
+        font-size: 20px;
+        font-weight: 700;
+        text-align: center;
+        white-space: wrap;
+        margin: 20px 30px;
+    }
+
+    .testdriveimage {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .testdrivecontactdetails {
+        display: flex;
+        justify-content: center;
+        margin: 20px auto;
+
+        .testdriveinput {
+            min-width: 200px;
+            height: 50px;
+            border-radius: 10px;
+            font-size: 18px;
+            padding: 0px 10px;
+        }
+
+        .testdrivebutton {
+            height: 56px;
+            margin-left: -10px;
+            border-radius: 10px;
+            font-family: "Avenir Next";
+            font-size: 20px;
+            font-weight: 700;
+            background: #F63663;
+            color: #FFFFFF;
+        }
+    }
+}

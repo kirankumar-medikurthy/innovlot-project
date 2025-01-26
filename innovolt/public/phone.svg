@@ -1,0 +1,27 @@
+<svg height="100%" width="100%"><defs><style>#comp-lvqic2zq svg [data-color="1"] {fill: #F63663;}</style></defs>
+              <defs><filter x="-6" y="-6" width="35" height="35" filterUnits="userSpaceOnUse" id="comp-lvqic2zq-shadow_comp-lvqic2zq" color-interpolation-filters="sRGB">
+    <feComponentTransfer result="srcRGB"></feComponentTransfer>
+    <feGaussianBlur stdDeviation="2" in="SourceAlpha"></feGaussianBlur>
+<feOffset dx="1" dy="1"></feOffset>
+<feColorMatrix type="matrix" values="0 0 0 0 0
+0 0 0 0 0
+0 0 0 0 0
+0 0 0 0.6 0"></feColorMatrix>
+<feMerge>
+    <feMergeNode></feMergeNode>
+    <feMergeNode in="SourceGraphic"></feMergeNode>
+</feMerge>
+    <feComponentTransfer></feComponentTransfer>
+</filter></defs>
+              <g filter="url(#comp-lvqic2zq-shadow_comp-lvqic2zq)">
+                  <!--?xml version="1.0" encoding="UTF-8"?-->
+<svg preserveAspectRatio="xMidYMid meet" data-bbox="20 20 159.999 160" viewBox="20 20 159.999 160" height="100%" width="100%" xmlns="http://www.w3.org/2000/svg" data-type="color" role="presentation" aria-hidden="true" aria-label="">
+    <g>
+        <path d="M117.082 180c-16.588 0-33.176-6.314-45.805-18.943l-32.333-32.333c-25.258-25.258-25.258-66.354 0-91.612a3.81 3.81 0 0 1 5.388 0l32.333 32.333a3.809 3.809 0 0 1 0 5.389L65.888 85.613a11.36 11.36 0 0 0-3.352 8.083 11.36 11.36 0 0 0 3.352 8.083l32.333 32.333c4.458 4.458 11.709 4.459 16.166 0l10.778-10.778a3.81 3.81 0 0 1 5.388 0l32.333 32.333a3.809 3.809 0 0 1 0 5.389C150.259 173.686 133.671 180 117.082 180zM41.727 45.284c-19.642 22.426-18.775 56.67 2.605 78.05l32.333 32.333c21.381 21.381 55.625 22.246 78.05 2.606l-26.856-26.856-8.084 8.084c-7.43 7.429-19.515 7.427-26.943 0l-32.333-32.333a18.93 18.93 0 0 1-5.585-13.473c0-5.087 1.984-9.871 5.585-13.473l8.083-8.083-26.855-26.855z" fill="#112F5B" data-color="1"></path>
+        <path d="M176.189 88.59a3.81 3.81 0 0 1-3.811-3.811c0-31.517-25.641-57.158-57.158-57.158a3.81 3.81 0 1 1 .001-7.621C150.94 20 180 49.06 180 84.779a3.81 3.81 0 0 1-3.811 3.811z" fill="#112F5B" data-color="1"></path>
+        <path d="M145.705 88.59a3.81 3.81 0 0 1-3.811-3.811c0-14.708-11.966-26.674-26.673-26.674a3.81 3.81 0 1 1 0-7.622c18.91 0 34.294 15.385 34.294 34.295a3.81 3.81 0 0 1-3.81 3.812z" fill="#112F5B" data-color="1"></path>
+    </g>
+</svg>
+
+              </g>
+          </svg>
